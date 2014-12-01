@@ -21,7 +21,7 @@ except ImportError:
 
 __license__="""
 
-A PoC Python script to exploit Drupal 6.* 7.* User Enumeration Time-Based Attack:
+A PoC Python script to exploit Drupal 6.* phpass module installation 7.* User Enumeration Time-Based Attack:
 
 Authors:
 	c0r3dump | http://www.devconsole.info 
